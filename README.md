@@ -7,7 +7,7 @@ In LightTracing, we shoot rays from light source, trace the path they follow, th
 It's better than RayTracing for our use case cause it gives sharper caustics.
 
 The implementation doesnt priorities speed or accuracy, it just serve as a playground for some light experiments.</br>
-And also it's more of a project I started to learn Beef Language (the best programming lang I found so far !).</br>
+It's a project I started to experiment with this method along side learning Beef Language (the best programming lang I found so far !).</br>
 
 ## Screenshots
 <img width="1002" height="739" alt="Untitled-7" src="https://github.com/user-attachments/assets/a107f2de-67e9-4702-acd5-132f3df989e0" />
