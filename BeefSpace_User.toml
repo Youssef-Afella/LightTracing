@@ -1,5 +1,5 @@
 FileVersion = 1
-LastConfig = "Debug"
+LastConfig = "Release"
 LastPlatform = "Win64"
 RecentFilesList = ["src\\Program.bf"]
 
@@ -45,11 +45,11 @@ Type = "TabbedView"
 [[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
 Active = true
 TabLabel = "Program.bf"
-TabWidth = 102.4
+TabWidth = 92.4
 TabIsPinned = false
 Type = "SourceViewPanel"
 FilePath = "src\\Program.bf"
-CursorPos = 151
+CursorPos = 157
 ProjectName = "LightTracing"
 
 [[MainDockingFrame.DockedWidgets]]
@@ -85,6 +85,9 @@ TabWidth = 85.2
 TabIsPinned = false
 Type = "WatchPanel"
 Columns = [{Width = 250.0}, {Width = 250.0}, {Width = 250.0}]
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs.Items]]
+EvalStr = ""
 
 [[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
 TabLabel = "Auto"
